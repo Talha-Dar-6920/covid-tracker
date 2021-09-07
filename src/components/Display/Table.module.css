@@ -1,0 +1,32 @@
+.table {
+    padding: 2rem 3rem;
+    width: 60vw;
+    height: 85vh;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.heading__primary--main {
+    text-align: center;
+    font-size: 4.5rem;
+    border-bottom: 1px solid #666;
+    text-transform: uppercase;
+}
+
+.heading__primary {
+    padding: 0 2rem;
+    font-size: 1.5rem;
+    color: #333;
+    text-transform: uppercase;
+    border-bottom: 1px solid #666;
+}
+
+.table .last-child {
+    border-bottom: none;
+}
+
+.table td {
+    border-bottom: 1px solid #666;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}

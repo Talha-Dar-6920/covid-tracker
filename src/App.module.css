@@ -1,0 +1,38 @@
+.actions {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.countries {
+    outline: none;
+    border: none;
+    padding: 0.5rem 1.5rem;
+    border-radius: 0.5rem;
+    text-align: center;
+    margin: 1rem;
+    cursor: pointer;
+}
+
+.country {
+    padding: 0.5rem 1.5rem;
+    border-radius: 0.5rem;
+}
+
+.heading__loading {
+    text-align: center;
+    color: #666;
+}
+
+.heading__error {
+    text-align: center;
+    color: red;
+    font-size: 2.5rem;
+}
+
+.container {
+    margin: 3rem 0 1rem;
+    text-align: center;
+}

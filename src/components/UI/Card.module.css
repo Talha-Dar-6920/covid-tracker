@@ -1,0 +1,6 @@
+.card {
+    border-radius: 1rem;
+    box-shadow: 0.2rem 0.2rem 3rem 0.1rem rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    background-color: #efefef;
+}
